@@ -1,5 +1,7 @@
 Ansibles.openssh,v1.0.0
+Ansibles.erlang,v1.0.2
+Ansibles.build-essential,v1.0.1
 guillaumededrie.couchdb,v1.0.0
 JasonGiedymin.nodejs,master
 mivok0.users,master
-zaurky.cozy,master
+Kloadut.cozy,master
